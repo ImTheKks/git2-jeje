@@ -10,11 +10,12 @@ body{
     text-align: center;
 }
 .alo{
-    height: 1000px;
+    height: 1500px;
     width: 100%;
-    background-image: url(/imagen/f768x1-944170_944297_214.jpg);
+    background-image: url(../imagen/f768x1-944170_944297_214.jpg);
     border: 2px solid pink;
-    background-repeat: no-repeat;
+    
+    background-size: cover;
     background-position: center;
     
 }
