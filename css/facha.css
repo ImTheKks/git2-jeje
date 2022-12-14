@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    border: 0;
+    background-color: plum  ;
+}
+.ola{
+    text-align: center;
+}
+.alo{
+    height: 1000px;
+    width: 100%;
+    background-image: url(/imagen/f768x1-944170_944297_214.jpg);
+    border: 2px solid pink;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
